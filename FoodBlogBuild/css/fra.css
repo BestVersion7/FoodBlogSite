@@ -1,0 +1,30 @@
+<style>
+
+	#DONOTUSE {
+	}
+
+	body {
+		background:rgba(111,222,33,.2);
+	}
+
+	#headerPicture {
+		background: url("http://headerart.weebly.com/uploads/5/7/5/7/5757212/4697981_orig.jpg") repeat-x;
+		height:5em;
+		position:relative;
+	}
+
+	.nav-link {
+		color:red;
+	}
+
+	.card-img-top {
+		height:10em;
+		object-fit:cover;
+	}
+
+	#card-group-Books{
+		padding:.1em;
+	}
+
+
+</style>
